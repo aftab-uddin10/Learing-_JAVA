@@ -7,4 +7,15 @@ public class Main {
   }
 }
                      //output:   Volvo BMW Ford Mazda
+
+
+//real example
+int number = 2;
+
+// Print the multiplication table for the number 2
+for (int i = 1; i <= 10; i++) {
+  System.out.println(number + " x " + i + " = " + (number * i));
+} 
+
+
                      
